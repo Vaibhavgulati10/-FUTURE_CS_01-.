@@ -29,7 +29,7 @@ Perform security testing on a vulnerable web application to identify:
 - **Result:** Successfully accessing adminsrtation page 
 
 ## 📄 Report
-See [`Future_CS_O1.pdf`](./Future_CS_O1.pdf)  for full details. 
+See [`FUTURE_CS_O1.pdf`](./FUTURE_CS_O1.pdf)  for full details. 
 
 ---
 
