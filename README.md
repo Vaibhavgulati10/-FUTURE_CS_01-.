@@ -6,8 +6,8 @@ The objective of this task is to identify and report common web application vuln
 ## 🔍 Task Objective
 Perform security testing on a vulnerable web application to identify:
 - SQL Injection
-- Cross Site Scripting (XSS)
-- Authentication Flaws
+- Classic Stored XSS
+- Admin Section(Broken Access Control) 
 
 ## 🛠 Tools Used
 - Manual testing via web browser
