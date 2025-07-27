@@ -19,20 +19,17 @@ Perform security testing on a vulnerable web application to identify:
 ### 1. SQL Injection(Admin login)
 - **Payload Used:** `' OR 1=1--`
 - **Result:** Login bypass successful
-- **Screenshot:** 
 
 ### 2. Classic Stored XSS
 - **Payload Used:** `<<script>sscript>alert("XSS")</script>`
 - **Result:** Attempted via Admin Page
-- **Screenshot:** 
 
 ### 3. Broken Access Control (Admin Section)
 - **Tested With:** Inspect tools 
-- **Result:** Successfully accessing adminsrtation page
-- **Screenshot:** 
+- **Result:** Successfully accessing adminsrtation page 
 
 ## 📄 Report
-See  for full details.
+See [``](./)  for full details. 
 
 ---
 
